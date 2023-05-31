@@ -2,48 +2,48 @@
   "/*404": [
     {
       "type": "script",
-      "href": "/assets/_...404_-ba409426.js"
+      "href": "https://raw.githubusercontent.com/StefanodiTerlizzi/portfolio/main/assets/_...404_-ba409426.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-2de26e1f.js"
+      "href": "https://raw.githubusercontent.com/StefanodiTerlizzi/portfolio/main/assets/index-2de26e1f.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-9ffbadb4.css"
+      "href": "https://raw.githubusercontent.com/StefanodiTerlizzi/portfolio/main/assets/index-9ffbadb4.css"
     },
     {
       "type": "script",
-      "href": "/assets/bears2-b52a9375.js"
+      "href": "https://raw.githubusercontent.com/StefanodiTerlizzi/portfolio/main/assets/bears2-b52a9375.js"
     }
   ],
   "/": [
     {
       "type": "script",
-      "href": "/assets/index-7a1a97ee.js"
+      "href": "https://raw.githubusercontent.com/StefanodiTerlizzi/portfolio/main/assets/index-7a1a97ee.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-2de26e1f.js"
+      "href": "https://raw.githubusercontent.com/StefanodiTerlizzi/portfolio/main/assets/index-2de26e1f.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-9ffbadb4.css"
+      "href": "https://raw.githubusercontent.com/StefanodiTerlizzi/portfolio/main/assets/index-9ffbadb4.css"
     },
     {
       "type": "script",
-      "href": "/assets/bears2-b52a9375.js"
+      "href": "https://raw.githubusercontent.com/StefanodiTerlizzi/portfolio/main/assets/bears2-b52a9375.js"
     }
   ],
   "entry-client": [],
   "index.html": [
     {
       "type": "script",
-      "href": "/assets/index-2de26e1f.js"
+      "href": "https://raw.githubusercontent.com/StefanodiTerlizzi/portfolio/main/assets/index-2de26e1f.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-9ffbadb4.css"
+      "href": "https://raw.githubusercontent.com/StefanodiTerlizzi/portfolio/main/assets/index-9ffbadb4.css"
     }
   ]
 }
