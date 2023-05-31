@@ -1,0 +1,1 @@
+import{b as s,t}from"./index-2de26e1f.js";import{u as r,a as o,s as l}from"./bears2-b52a9375.js";const u=t('<div class="full-page-container">test'),c=l(e=>({bears:0,increase:()=>e(a=>({bears:a.bears+1}))}));function m(){return r(),o(),c(),s(),u()}export{m as default};

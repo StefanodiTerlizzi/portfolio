@@ -2,52 +2,48 @@
   "/*404": [
     {
       "type": "script",
-      "href": "/assets/_...404_-c4803697.js"
+      "href": "/assets/_...404_-ba409426.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-e864e51b.js"
+      "href": "/assets/index-2de26e1f.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-d870915a.css"
+      "href": "/assets/index-9ffbadb4.css"
     },
     {
       "type": "script",
-      "href": "/assets/bears2-4550a87f.js"
+      "href": "/assets/bears2-b52a9375.js"
     }
   ],
   "/": [
     {
       "type": "script",
-      "href": "/assets/index-e07148c1.js"
+      "href": "/assets/index-7a1a97ee.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-e864e51b.js"
+      "href": "/assets/index-2de26e1f.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-d870915a.css"
+      "href": "/assets/index-9ffbadb4.css"
     },
     {
       "type": "script",
-      "href": "/assets/bears2-4550a87f.js"
-    },
-    {
-      "type": "style",
-      "href": "/assets/index-fdb6b3cf.css"
+      "href": "/assets/bears2-b52a9375.js"
     }
   ],
   "entry-client": [],
   "index.html": [
     {
       "type": "script",
-      "href": "/assets/index-e864e51b.js"
+      "href": "/assets/index-2de26e1f.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-d870915a.css"
+      "href": "/assets/index-9ffbadb4.css"
     }
   ]
 }
