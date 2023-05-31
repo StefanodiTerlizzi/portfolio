@@ -1,0 +1,53 @@
+{
+  "/*404": [
+    {
+      "type": "script",
+      "href": "/assets/_...404_-c4803697.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/index-e864e51b.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index-d870915a.css"
+    },
+    {
+      "type": "script",
+      "href": "/assets/bears2-4550a87f.js"
+    }
+  ],
+  "/": [
+    {
+      "type": "script",
+      "href": "/assets/index-e07148c1.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/index-e864e51b.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index-d870915a.css"
+    },
+    {
+      "type": "script",
+      "href": "/assets/bears2-4550a87f.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index-fdb6b3cf.css"
+    }
+  ],
+  "entry-client": [],
+  "index.html": [
+    {
+      "type": "script",
+      "href": "/assets/index-e864e51b.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index-d870915a.css"
+    }
+  ]
+}

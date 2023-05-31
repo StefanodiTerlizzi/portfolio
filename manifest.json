@@ -1,0 +1,49 @@
+{
+  ".solid/index.css": {
+    "file": "assets/index-d870915a.css",
+    "src": ".solid/index.css"
+  },
+  ".solid/index.html": {
+    "css": [
+      "assets/index-d870915a.css"
+    ],
+    "dynamicImports": [
+      "src/routes/[...404].tsx",
+      "src/routes/index.tsx"
+    ],
+    "file": "assets/index-e864e51b.js",
+    "isEntry": true,
+    "src": ".solid/index.html"
+  },
+  "_bears2-4550a87f.js": {
+    "file": "assets/bears2-4550a87f.js",
+    "imports": [
+      ".solid/index.html"
+    ]
+  },
+  "src/routes/[...404].tsx": {
+    "file": "assets/_...404_-c4803697.js",
+    "imports": [
+      ".solid/index.html",
+      "_bears2-4550a87f.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/[...404].tsx"
+  },
+  "src/routes/index.css": {
+    "file": "assets/index-fdb6b3cf.css",
+    "src": "src/routes/index.css"
+  },
+  "src/routes/index.tsx": {
+    "css": [
+      "assets/index-fdb6b3cf.css"
+    ],
+    "file": "assets/index-e07148c1.js",
+    "imports": [
+      ".solid/index.html",
+      "_bears2-4550a87f.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/index.tsx"
+  }
+}
